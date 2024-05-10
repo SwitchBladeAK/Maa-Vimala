@@ -1,6 +1,6 @@
 # **Maa-Vimala: Unleash Your Keyboard Superpowers**
 
-** Calling all keyboard warriors!** Tired of lifting your fingers from those glorious keys? Introducing Maa-Vimala, a productivity booster designed to enhance your workflow with lightning-fast keyboard shortcuts.
+****Calling all keyboard warriors!!!**** Tired of lifting your fingers from those glorious keys? Introducing Maa-Vimala, a productivity booster designed to enhance your workflow with lightning-fast keyboard shortcuts.
 
 ## Features:
 
@@ -31,12 +31,12 @@
 **Bash**
 `cd Maa-Vimala`
 > - open index.html  # Replace with your preferred command to open HTML files
-- Use code with caution.
-- content_copy
-- Set Maa-Vimala as Your Browser's Homepage (Optional):
-- Access your browser settings and locate the "Homepage" or "Startup" option.
-- Choose "Custom URL" or a similar option.
-- Paste the path to your index.html file.
+>- Use code with caution.
+>- content_copy
+>- Set Maa-Vimala as Your Browser's Homepage (Optional):
+>- Access your browser settings and locate the "Homepage" or "Startup" option.
+>- Choose "Custom URL" or a similar option.
+>- Paste the path to your index.html file.
 
 # **Contributing:**
 
@@ -44,13 +44,13 @@
 
 **Review the Contribution Guidelines:**
 >-  Carefully read the Contribute.md file for valuable guidance.
-- Open an Issue for Major Changes:
-- If you plan significant modifications, create an issue on GitHub to discuss them beforehand.
-- Pull Request Time!
-- Once ready, submit your pull request. We appreciate your help in making Maa-Vimala even better!
-- Let's Get Typing!
-- Start typing your searches, commands, or calculations directly into Maa-Vimala.
-- Press Enter to execute your action.
+>- Open an Issue for Major Changes:
+>- If you plan significant modifications, create an issue on GitHub to discuss them beforehand.
+>- Pull Request Time!
+>- Once ready, submit your pull request. We appreciate your help in making Maa-Vimala even better!
+>- Let's Get Typing!
+>- Start typing your searches, commands, or calculations directly into Maa-Vimala.
+>- Press Enter to execute your action.
 
 ##### Check Out The Included Video Tutorial For A More In-Depth Guide (Link Provided Below).
 [Watch the video](https://github.com/Web403/Maa-Vimala/assets/130058150/06f7bc4e-fbb0-418c-b080-1b4b05c97d1b "Watch the video")
