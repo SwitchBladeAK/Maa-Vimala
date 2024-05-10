@@ -55,6 +55,6 @@
 ##### Check Out The Included Video Tutorial For A More In-Depth Guide (Link Provided Below).
 [Watch the video](https://github.com/Web403/Maa-Vimala/assets/130058150/06f7bc4e-fbb0-418c-b080-1b4b05c97d1b "Watch the video")
 
-#### Join the Maa-Vimala Community!
+#### Join the Maa-Vimala Community !
 ###### Stay connected with other users and share your feedback on our Discord server:**
 https://discord.gg/uD7x8Mah
